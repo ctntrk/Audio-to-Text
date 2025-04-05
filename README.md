@@ -1,11 +1,5 @@
 # Audio-to-Text
 
-# Audio-to-Text Demo Link: https://audio-to-text-t982.onrender.com
-
-
-# **Audio-Text Converter** 
-
-
 # 🎤🔊 Audio-Text Converter
 
 This application allows users to convert audio files (MP3 or WAV formats) into text using **Streamlit** and **SpeechRecognition**. Once the audio is transcribed, users can download the generated transcript in either **TXT** or **PDF** format. The app also supports real-time transcription and offers an intuitive interface for easy file uploads and text editing.
@@ -16,8 +10,7 @@ You can try out the application and see it in action by visiting the link below:
 
 [**Audio-Text Converter Demo**](https://audio-to-text-t982.onrender.com)
 
-⚠️ **Note**: Streamlit Cloud deploy may put the app to sleep if it’s not being actively used or if there’s low traffic. 💤
-
+⚠️ **Note**: The app goes to sleep when not actively used or if there is low traffic. 💤
 ---
 
 ## 📌 Project Overview
