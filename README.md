@@ -13,8 +13,6 @@ https://github.com/user-attachments/assets/165a4bc3-d144-46d6-bc36-26c4d038d4bd
 You can try out the application and see it in action by visiting the link below:
 
 [**Audio-Text Converter Demo**](https://audio-to-text-t982.onrender.com)
-
-⚠️ **Note**: The app goes to sleep when not actively used or if there is low traffic. 💤
 ---
 
 ## 📌 Project Overview
