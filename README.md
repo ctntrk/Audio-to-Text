@@ -1,5 +1,3 @@
-# Audio-to-Text
-
 # 🎤🔊 Audio-Text Converter
 
 This application allows users to convert audio files (MP3 or WAV formats) into text using **Streamlit** and **SpeechRecognition**. Once the audio is transcribed, users can download the generated transcript in either **TXT** or **PDF** format. The app also supports real-time transcription and offers an intuitive interface for easy file uploads and text editing.
