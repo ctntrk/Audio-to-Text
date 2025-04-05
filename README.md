@@ -32,7 +32,17 @@ This project is a **web application** designed to convert audio files (MP3 or WA
 4. **Text Editing**: The transcribed text is displayed in a text box, allowing the user to make changes.
 5. **Download Options**: The user can download the transcript as a **TXT** or **PDF** file.
 
-![Audio-to-Text Converter](https://your-image-link-here.com)
+## Streamlit Web Interface
+![Alt text](https://github.com/ctntrk/Audio-to-Text/blob/main/web-interface.jpg)
+
+## After Transcript Process
+![Alt text](https://github.com/ctntrk/Audio-to-Text/blob/main/transcrip.jpg)
+
+## PDF File Output of Transcript Process
+![Alt text](https://github.com/ctntrk/Audio-to-Text/blob/main/transcrip-pdf.jpg)
+
+## TXT File Output of Transcript Process
+![Alt text](https://github.com/ctntrk/Audio-to-Text/blob/main/transcrip-txt.jpg)
 
 ---
 
